@@ -11,7 +11,7 @@ st.write("""
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example CSV input file](https://raw.githubusercontent.com/dataprofessor/data/master/penguins_example.csv)
+[upload)
 """)
 
 # Collects user input features into dataframe
