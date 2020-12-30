@@ -5,7 +5,7 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-Name the penguin
+# Name the penguin
 """)
 
 st.sidebar.header('User Input Features')
